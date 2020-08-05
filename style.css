@@ -1,0 +1,26 @@
+body {
+  font-family: "Recursive", sans-serif;
+  text-align: center;
+}
+button {
+  font-family: "Recursive", sans-serif;
+  text-align: center;
+  border: double 5px;
+  background-color: black;
+  color: white;
+}
+
+#start {
+  padding: 80px;
+  margin: 5vw auto;
+  width: 150px;
+  background-color: #ba0de0;
+  box-shadow: 20px 20px grey;
+  border-radius: 999px;
+}
+
+input {
+  font-family: "Recursive", sans-serif;
+  width: 90%;
+  height: 7%;
+}
